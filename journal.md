@@ -1,6 +1,6 @@
 # My super amazing title
 
-Authored by: Lauren
+Authored by: John and Lauren
 
 Introduction: This is the introduction to my amazing new paper. Based on results from Smith (2009), Dupre (2012).
 
